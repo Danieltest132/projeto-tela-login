@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Bamum
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bamum)
+- Font Source: http://fonts.gstatic.com/s/notosansbamum/v26/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddO-_gLykxEkxA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
